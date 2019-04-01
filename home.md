@@ -1,22 +1,22 @@
 # Homepage
 
-## Links 
-[Homepage](home)
+## Menu 
+[Homepage](home.md)
 
-[About](about)
+[About](about.md)
 
-[People](people)
+[People](people.md)
 
-[Activities](activities)
+[Activities](activities.md)
 
-[News](news) 
+[News](news.md) 
 
-[Life in Japan as an Italian](life-italian)
+[Life in Japan as an Italian](life-italian.md)
 
-[Life in Japan as a Researcher](life-research) 
+[Life in Japan as a Researcher](life-research.md) 
 
-[Stories](stories) 
+[Stories](stories.md) 
 
-[Links](links)
+[Links](links.md)
 
-[Join](join) 
+[Join](join.md) 
