@@ -1,22 +1,16 @@
 .page-home {
-  background-image: url('../img/italy-flag.jpg'); 
+  background-image: url('../img/logo-temp.PNG'); 
   background-repeat: no-repeat;
-  background-size: 115%;
-  background-position: 49px -40px;
-  @include media-breakpoint-up(sm) {
-    background-size: 90%;
-    background-position: 159px -40px;
-  }
-  @include media-breakpoint-up(md) {
-    background-size: 70%;
-    background-position: 100% -50px;
-  }
-  @include media-breakpoint-up(lg) {
-    background-size: 67%;
-    background-position: 100% -50px;
-  }
+  
   @include media-breakpoint-up(xl) {
-    background-size: 58%;
-    background-position: 100% -90px;
+    background-size: 28%;
+    background-position: 80% 170px;
   }
+}
+.intro h1 {
+  color:#dc3545;
+  font-size: 2.4rem;
+  line-height: 1.2;
+  font-family: lora,Arial,sans-serif,-apple-system;
+  width: 70%;
 }
