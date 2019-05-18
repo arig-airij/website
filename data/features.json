@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Professional Networking",
+    "description": "Eventi per aumentare le tue conoscenze e scoprire nuove opportunita'",
+    "image": "/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Career Counseling",
+    "description": "Ti aiuteremo a pianificare la tua carriera e raggiungere i tuoi obiettivi",
+    "image": "/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Scientific collaborations",
+    "description": "Costruisci un team multidisciplinare di ricercatori su un progetto specifico",
+    "image": "/features/noun_3d modeling_1885342.svg"
+  }
+]

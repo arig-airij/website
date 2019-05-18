@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Associazione dei Ricercatori Italiani in Giappone"
+# themesDir = "themes"
+theme = "hugo-serif-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Benvenuto nel sito dei ricercatori Italiani in Giappone."
+    meta_og_title = "AIRIJ - Association of Italian Researchers in Japan"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-serif.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+    name = "Board"
+    url = "/board/"
+    weight = 1
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
