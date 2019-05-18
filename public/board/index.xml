@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Board on Associazione dei Ricercatori Italiani in Giappone</title>
+    <link>/board/</link>
+    <description>Recent content in Board on Associazione dei Ricercatori Italiani in Giappone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/board/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sarah Cosentino</title>
+      <link>/board/sarah/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/sarah/</guid>
+      <description>Associate Professor at Waseda University. My main technical interests are human movement and performance analysis, human-robot interaction, Machine Learning and AI.</description>
+    </item>
+    
+    <item>
+      <title>Nathan Shammah</title>
+      <link>/board/nathan/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/nathan/</guid>
+      <description>Postdoctoral Researcher in Quantum Physics at RIKEN.</description>
+    </item>
+    
+    <item>
+      <title>Claudio Feliciani</title>
+      <link>/board/claudio/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/claudio/</guid>
+      <description>Project Assistant Professor at The University of Tokyo.</description>
+    </item>
+    
+    <item>
+      <title>Marco Pellegrini</title>
+      <link>/board/marco/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/marco/</guid>
+      <description>Advanced Simulation Team, Leader at The Institute of Applied Energy at Tokyo Institute of Technology.</description>
+    </item>
+    
+    <item>
+      <title>Michela Riminucci</title>
+      <link>/board/michela/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/michela/</guid>
+      <description>Lecturer of European Union law at University of Kobe.</description>
+    </item>
+    
+    <item>
+      <title>Silvia Bolzani</title>
+      <link>/board/silvia/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/board/silvia/</guid>
+      <description>JSPS Postdoctoral Researcher Laboratory of Epigenetics and Metabolism, Institute for Molecular and Cellular Regulation (IMCR), Gunma University.</description>
+    </item>
+    
+  </channel>
+</rss>
