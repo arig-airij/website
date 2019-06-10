@@ -9,7 +9,7 @@ theme = "hugo-serif-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Benvenuto nel sito dei ricercatori Italiani in Giappone."
-    meta_og_title = "AIRIJ - Association of Italian Researchers in Japan"
+    meta_og_title = "AIRJ - Association of Italian Researchers in Japan"
     meta_og_type = "website"
     meta_og_url = "https://hugo-serif.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
@@ -17,6 +17,11 @@ theme = "hugo-serif-theme"
     meta_twitter_card = "summary"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 2
 
 [[menu.main]]
     name = "Activities"
