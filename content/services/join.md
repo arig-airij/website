@@ -5,6 +5,4 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Get in touch with us to become a member. You can fill out the [Google form here](https://forms.gle/LfbptZDHy4kjVJZu7).
