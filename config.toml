@@ -24,8 +24,8 @@ theme = "hugo-serif-theme"
     weight = 2
 
 [[menu.main]]
-    name = "Activities"
-    url = "/activities/"
+    name = "Life in Japan"
+    url = "/life-japan-eng/"
     weight = 2
 
 [[menu.main]]
