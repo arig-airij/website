@@ -1,6 +1,5 @@
 ---
 title: 'Marco Pellegrini'
-date: 2018-11-19T10:47:58+10:00
 draft: false
 image: 'team/marco.jpg'
 jobtitle: 'Your Role'

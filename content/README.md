@@ -14,7 +14,7 @@ Website for the Association of Italian Researchers in Japan
 
 [Life in Japan as an Italian](life-italian.md)
 
-[Life in Japan as a Researcher](life-research.md) 
+[Life in Japan as a Researcher](life-research.md) ([English version](life-research-eng.md))
 
 [Stories](stories.md) 
 
