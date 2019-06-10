@@ -1,7 +1,8 @@
 # Life as a researcher in Japan
 
 
-*This text is by Claudio Feliciani*
+*This text is by Claudio Feliciani* 
+[Click here](life-research.md) for the Italian version
 
 
 ## Life in Japan
