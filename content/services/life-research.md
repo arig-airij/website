@@ -2,6 +2,7 @@
 
 
 *Questo testo è stato scritto da Claudio Feliciani*
+[Clicka here](life-research-eng.md) for the English version.
 
 ## La vita in Giappone
 Oltre agli aspetti legati al mondo della ricerca e del lavoro occorre tenere conto che in quanto ricercatore in Giappone ci si troverà a vivere in un paese molto particolare, con usanze e tradizioni spesso molto diverse dall’Italia (o generalmente dall’Europa o paesi occidentali).

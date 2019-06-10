@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: 'team/sarah.jpg'
 jobtitle: 'contact point with institutions (European, Italian and Japanese); contact point with industrial partners; events and activities in Japan. President'
-email: 'peter@test.com'
+email: 'ing.cosentino.sarah@gmail.com'
 linkedinurl: 'https://www.linkedin.com/'
 weight: 1
 ---

@@ -5,8 +5,6 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+This section will hightlight the stories of Italian researchers in Japan: their struggles, successes, and experiences. Would you like to tel your story? [Get in touch with us](contact.md). 
 
-# personal stories
+# Personal Stories
