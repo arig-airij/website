@@ -19,6 +19,11 @@ theme = "hugo-serif-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
+    name = "Activities"
+    url = "/activities/"
+    weight = 2
+
+[[menu.main]]
     name = "Board"
     url = "/board/"
     weight = 2
