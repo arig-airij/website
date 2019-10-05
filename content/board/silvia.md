@@ -4,7 +4,7 @@ draft: false
 image: 'team/silvia.jpg'
 jobtitle: 'JSPS contact point'
 linkedinurl: 'https://www.linkedin.com/in/silviabolzani/'
-weight: 5
+weight: 7
 ---
 
 JSPS Postdoctoral Researcher Laboratory of Epigenetics and Metabolism, Institute for Molecular and Cellular Regulation (IMCR), Gunma University.
