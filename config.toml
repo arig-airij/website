@@ -15,13 +15,13 @@ theme = "hugo-serif-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
     #meta_og_description = "Serif is a beautiful small business theme for Hugo (Static Site Generator). It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@alebaffa"
+    meta_twitter_creator = "@alebaffa"
 
 [[menu.main]]
     name = "News"
     url = "/news/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Activities"
@@ -31,9 +31,9 @@ theme = "hugo-serif-theme"
 [[menu.main]]
     name = "Board"
     url = "/board/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 2
+    weight = 4

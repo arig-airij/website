@@ -8,3 +8,5 @@ weight: 5
 ---
 
 Lecturer of European Union law at University of Kobe.
+
+Institutional contact point. 
