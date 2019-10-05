@@ -2,7 +2,7 @@
 title: 'Marco Pellegrini'
 draft: false
 image: 'team/marco.jpg'
-jobtitle: 'Your Role'
+jobtitle: 'Secretary'
 email: 'sage@test.com'
 linkedinurl: ''
 weight: 3
