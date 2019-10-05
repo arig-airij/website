@@ -1,9 +1,9 @@
 ---
 title: 'Stefania Bandini'
 draft: false
-image: 'team/silvia.jpg'
-jobtitle: 'Coordinator (non-board member).'
-linkedinurl: ''
+image: 'team/stefania.jpg'
+jobtitle: 'Coordinator'
+linkedinurl: 'https://www.linkedin.com/in/stefania-bandini-38b1aa/'
 weight: 5
 ---
 

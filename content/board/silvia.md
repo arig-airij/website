@@ -1,11 +1,9 @@
 ---
 title: 'Silvia Bolzani'
-date: 2018-11-19T10:47:58+10:00
 draft: false
 image: 'team/silvia.jpg'
-jobtitle: 'JSPS contact point (non-board member).'
-email: 'sage@test.com'
-linkedinurl: ''
+jobtitle: 'JSPS contact point'
+linkedinurl: 'https://www.linkedin.com/in/silviabolzani/'
 weight: 5
 ---
 

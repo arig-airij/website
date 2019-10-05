@@ -3,8 +3,7 @@ title: 'Michela Riminucci'
 draft: false
 image: 'team/michela.jpg'
 jobtitle: 'Coordinator'
-email: 'sage@test.com'
-linkedinurl: ''
+linkedinurl: 'https://www.linkedin.com/in/michela-riminucci/'
 weight: 5
 ---
 
