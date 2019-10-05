@@ -9,27 +9,26 @@
   
   <url>
     <loc>/board/nathan/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/board/claudio/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/board/marco/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/board/michela/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
     <loc>/board/silvia/</loc>
-    <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/board/stefania/</loc>
   </url>
   
   <url>
@@ -89,6 +88,16 @@
   
   <url>
     <loc>/readme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/services/life-research-eng/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/services/life-research/</loc>
     <priority>0</priority>
   </url>
   
