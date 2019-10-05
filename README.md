@@ -1,2 +1,2 @@
 # arig-website
-Website for the Association of Italian Researchers in Japan
+Website for the Association of Italian Researchers in Japan (AIRJ)
